@@ -94,15 +94,15 @@
 ### 1.5 下载 BCS 安装包
 <a id="15"></a>
 
-- 下载安装包，[下载地址](https://bkopen-1252002024.file.myqcloud.com/bcs/bcs_ce-6.0.9.tgz)
+- 下载安装包，[下载地址](https://bkopen-1252002024.file.myqcloud.com/bcs/bcs_ce-6.0.10.tgz)
 - 上传安装包至中控机 /data
-- 容器管理平台扩展软件包：bcs_ce-6.0.9.tgz
+- 容器管理平台扩展软件包：bcs_ce-6.0.10.tgz
 
 ### 1.6 解压 BCS 安装包
 <a id="16"></a>
 
 ```bash
-tar xvf bcs_ce-6.0.9.tgz -C /data/
+tar xvf bcs_ce-6.0.10.tgz -C /data/
 ```
 
 ## 二、开始部署
